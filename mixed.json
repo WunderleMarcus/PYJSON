@@ -1,0 +1,141 @@
+[
+    {
+        "id": 1,
+        "name": "Max M\u00fcller",
+        "email": "max@example.com",
+        "age": 30,
+        "address": {
+            "city": "M\u00fcnchen",
+            "zip": "80331"
+        },
+        "hobbies": [
+            "Fu\u00dfball",
+            "Lesen"
+        ]
+    },
+    {
+        "id": 2,
+        "username": "tech_girl92",
+        "email": "lisa@example.com",
+        "verified": true,
+        "last_login": "2026-04-20T14:22:00Z",
+        "devices": [
+            {
+                "type": "mobile",
+                "os": "Android"
+            },
+            {
+                "type": "laptop",
+                "os": "Windows"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "company": "DataSoft GmbH",
+        "employees": 120,
+        "departments": [
+            {
+                "name": "IT",
+                "head": "Herr Schmidt"
+            },
+            {
+                "name": "HR",
+                "head": "Frau Keller"
+            }
+        ],
+        "location": {
+            "country": "Deutschland",
+            "coordinates": [
+                48.1351,
+                11.582
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "product": "Laptop",
+        "price": 1299.99,
+        "currency": "EUR",
+        "in_stock": true,
+        "specs": {
+            "cpu": "Intel i7",
+            "ram": "16GB",
+            "storage": "512GB SSD"
+        },
+        "tags": [
+            "electronics",
+            "computers"
+        ]
+    },
+    {
+        "id": 5,
+        "event": "Tech Conference 2026",
+        "date": "2026-09-15",
+        "participants": [
+            {
+                "name": "Anna",
+                "ticket": "VIP"
+            },
+            {
+                "name": "Tom",
+                "ticket": "Standard"
+            }
+        ],
+        "location": "Berlin",
+        "sponsors": null
+    },
+    {
+        "id": 6,
+        "user": "anonymous",
+        "actions": [
+            {
+                "type": "click",
+                "timestamp": 1710000000
+            },
+            {
+                "type": "purchase",
+                "amount": 59.99
+            }
+        ],
+        "metadata": {
+            "ip": "192.168.1.1",
+            "browser": "Firefox"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Blog Post",
+        "content": "Das ist ein Beispieltext...",
+        "author": {
+            "name": "Julia",
+            "social": {
+                "twitter": "@julia_dev"
+            }
+        },
+        "comments": [
+            {
+                "user": "Max",
+                "text": "Sehr hilfreich!",
+                "likes": 5
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "sensor_id": "A-100",
+        "measurements": [
+            {
+                "type": "temperature",
+                "value": 22.5
+            },
+            {
+                "type": "humidity",
+                "value": 45
+            }
+        ],
+        "status": "active",
+        "battery": 78,
+        "updated": true
+    }
+]

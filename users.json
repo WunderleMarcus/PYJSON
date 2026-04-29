@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Anna",
+    "email": "anna@example.com",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Ben",
+    "email": "ben@example.com",
+    "active": false
+  },
+  {
+    "id": 35,
+    "name": "Diana",
+    "age": 28,
+    "email": "diana@example.com"
+  },
+  {
+    "id": 35,
+    "name": "Diana",
+    "age": 28,
+    "email": "diana@example.com"
+  },
+  {
+    "id": 31,
+    "name": "Stefan",
+    "age": 28,
+    "email": "steff@example.com"
+  },
+  {
+    "id": 31,
+    "name": "Stefan",
+    "age": 28,
+    "email": "steff@example.com"
+  }
+]
